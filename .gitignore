@@ -1,0 +1,12 @@
+# The book PDF ships via GitHub Releases, never the git tree.
+dist/
+*.pdf
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
